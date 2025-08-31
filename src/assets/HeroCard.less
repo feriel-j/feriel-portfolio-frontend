@@ -1,0 +1,104 @@
+@import url("./preset.less");
+
+header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+  height: 95dvh;
+  z-index: -2;
+  perspective: 10px;
+  transform-style: preserve-3d;
+  position: relative;
+  // overflow: auto;
+  // overflow-x: hidden;
+  // overflow-y: scroll;
+
+  .background,
+  .foreground-1,
+  .foreground-2,
+  .foreground-3 {
+    grid-column: 2/4;
+    grid-row: 1/2;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  .background-1 {
+    grid-column: 1/4;
+    z-index: -2;
+        transform: translateZ(-10px) scale(4);
+
+    // transform: translateZ(-10px) scale(2);
+  }
+
+  .background-2 {
+    grid-column: 1/4;
+    transform: translateZ(-10px) scale(4);
+    z-index: -1;
+  }
+
+  .foreground-1 {
+    transform: translateZ(-7px) translateX(25%) translateY(-30%) scale(2);
+    // transform: translateZ(-10px)  scale(2);
+
+    z-index: -1;
+  }
+  .foreground-2 {
+    transform: translateZ(-5px) translateX(15%) translateY(-25%) scale(1.7);
+        // transform: translateZ(-7px)  scale(1.7);
+
+    z-index: -1;
+  }
+
+  .foreground-3 {
+    transform: translateZ(-3px) translateX(10%) translateY(-20%) scale(1.5);
+    z-index: -1;
+    overflow: visible;
+  }
+
+  .title-section {
+    //   transform: translateY(-15%) scale(1);
+    align-self: self-start;
+    grid-column: 1 / span 1;
+    grid-row: 1/2;
+    min-height: 60%;
+    //   height: 100%;
+    width: 100%;
+    padding: 3rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    position: relative;
+
+    h1 {
+      font-family: @Montserrat;
+      background: linear-gradient(90deg, @main-pink, @main-blue);
+      font-size: 2.5rem;
+      font-weight: 700;
+      text-align: center;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    h2 {
+      font-family: @Montserrat;
+      font-size: 2rem;
+      font-weight: 500;
+      color: @main-blue;
+      text-align: center;
+    }
+
+    p {
+      font-family: @Poppins;
+      font-size: 1rem;
+      line-height: 1.75;
+      text-align: center;
+      letter-spacing: 0.07em;
+    }
+  }
+}

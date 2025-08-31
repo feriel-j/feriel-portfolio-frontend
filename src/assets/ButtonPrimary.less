@@ -1,0 +1,38 @@
+@import url("./preset.less");
+
+
+.hero-button{
+    background-color: @main-elements;
+    padding: .7rem 1rem;
+    outline: none;
+    border: none;
+    color: @main-pink;
+    border: 2px solid @main-pink;
+    border-radius: 7px;
+    // box-shadow: 0px 0px 10px rgb(0,0,0,0.1 );
+    font-family: @Montserrat;
+    font-size: 1.1rem;
+    font-weight: 500;
+    box-shadow: 0 0px 10px rgba(66, 232, 224, 0.1);
+
+    transition: transform 200ms, box-shadow 200ms;
+    cursor: pointer;
+
+    &:active ,&:focus{
+        transform: translateY(2px) translateX(2px);
+    // box-shadow: 0px 0px 10px rgb(0,0,0,0.5 );
+    box-shadow: 0 0px 10px rgba(66, 232, 224, 0);
+
+
+    }
+
+      &:hover {
+      background-color: @main-pink;
+      border:3px solid @main-elements;
+      color: @main-elements;
+        box-shadow: 0 0px 10px @main-pink 0.5;
+        // font-weight: 600;
+
+
+    }
+}

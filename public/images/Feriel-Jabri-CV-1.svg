@@ -1,0 +1,747 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="612" height="792" viewBox="0 0 612 792">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M190.625 450H231.25V490.625H190.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M728.125 450H771.875V490.625H728.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M171.875 540.625H215.625V581.25H171.875Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M515.625 540.625H556.25V581.25H515.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M284.375 631.25H325V671.875H284.375Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M706.25 631.25H746.875V671.875H706.25Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M481.25 837.5H537.5V893.75H481.25Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1068.75H165.625V1081.25H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1121.875H165.625V1134.375H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_18">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1175H165.625V1187.5H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1228.125H165.625V1240.625H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1281.25H165.625V1293.75H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1334.375H165.625V1346.875H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1387.5H165.625V1400H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1440.625H165.625V1453.125H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1653.125H165.625V1665.625H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1706.25H165.625V1718.75H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1759.375H165.625V1771.875H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1812.5H165.625V1825H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1865.625H165.625V1878.125H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 1918.75H165.625V1931.25H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2131.25H165.625V2143.75H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2184.375H165.625V2196.875H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2393.75H165.625V2406.25H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2606.25H165.625V2618.75H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2818.75H165.625V2831.25H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2871.875H165.625V2884.375H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2925H165.625V2937.5H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 2978.125H165.625V2990.625H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M153.125 3031.25H165.625V3043.75H153.125Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1659.375 193.75H1718.75V250H1659.375Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1400 768.75H1456.25V825H1400Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1059.375H1228.125V1071.875H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1171.875H1228.125V1184.375H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1228.125H1228.125V1240.625H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1337.5H1228.125V1350H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1450H1228.125V1462.5H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1765.625H1228.125V1778.125H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_77">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1878.125H1228.125V1890.625H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_78">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_79">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1934.375H1228.125V1946.875H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_80">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_81">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 1990.625H1228.125V2003.125H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_82">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_83">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2050H1228.125V2062.5H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_84">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_85">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2106.25H1228.125V2118.75H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_86">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_87">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2371.875H1228.125V2384.375H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_88">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_89">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2428.125H1228.125V2440.625H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_90">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_91">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2484.375H1228.125V2496.875H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_92">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_93">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2543.75H1228.125V2556.25H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_94">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_95">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2653.125H1228.125V2665.625H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_96">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_97">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 2971.875H1228.125V2984.375H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_98">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_99">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 3028.125H1228.125V3040.625H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_100">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_101">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M1215.625 3087.5H1228.125V3100H1215.625Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_102">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H2550V3300H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" stroke-width="7" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#0e374e" d="M3.5 3.5H812.5V1052.5H3.5Z"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M7 7H809V1049H7Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M37 50H350V261H37Z" fill="#ffffff"/>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="35.33" font-family="Pacifico"><tspan y="84" x="97.578128 123.37846 138.26242 155.33673 165.02745 179.9114 192.42839 202.79035 227.7427 245.34694 263.05717 280.13148">Feriel Jabri</tspan></text>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="23.85" font-family="CrimsonPro" font-style="italic"><tspan y="117" x="84.109378 95.7285 103.64526 113.82077 125.882358 132.9144 141.94895 154.01053 165.23386 169.70456 190.59085 199.6254 210.22003 214.69074 230.57105 239.60559 249.57154 258.60609 264.4273 274.6028 285.94258 294.9771">Frontend Web Developer</tspan></text>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.40625,0,0,.40625,45.75,108)" d="M19.68 20C21.094 20 22.24 18.806 22.24 17.333V10.5L12.474999 14.5720009C12.324529 14.642984 12.166195 14.674651 11.999999 14.667001 11.767999 14.667001 11.607999 14.633 11.527999 14.568001L1.76 10.5V17.333C1.76 18.806 2.9060002 20 4.32 20H19.68Z" fill="#0e374e"/>
+<path transform="matrix(.40625,0,0,.40625,45.75,108)" d="M12 11.9 22.24 7.6329996V6.6669995C22.24 5.194 21.094 4 19.68 4H4.32C2.9060002 4 1.76 5.194 1.76 6.667V7.633L12 11.9Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="155" x="82.046878 85.92555 91.78264 96.52037 100.00859 105.86568 109.36691 112.4126 115.70558 121.875049 128.72133 133.45906 136.94728 144.4834 152.01952 163.79877 170.24156 180.95352 187.12299 190.6112 194.11244 196.96286 202.42946 209.04146">feriel.jabri00@gmail.com</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="150" x="219.76563"> </tspan></text>
+</g>
+<g clip-path="url(#clip_3)">
+<path transform="matrix(.40625,0,0,.40625,174.75,108)" d="M22.964 17.632 21.965 21.962C21.8956 22.267472 21.73823 22.517596 21.49289 22.712368 21.24755 22.907143 20.968253 23.003687 20.655 23.001999 9.821001 23.001999 1.0050011 14.185999 1.0050011 3.341999 1.0050011 2.712999 1.433001 2.174999 2.045001 2.034999L6.375001 1.0369989C6.691801 .96475598 6.9952127 1.0018936 7.285236 1.1484121 7.5752599 1.2949305 7.7851817 1.5171261 7.915001 1.8149989L9.912 6.48C10.1449999 7.03 9.988 7.668 9.526 8.045L7.214 9.942C8.720225 13.004671 11.004892 15.288671 14.068001 16.794L15.960001 14.482C16.385218 13.958388 16.90755 13.830054 17.527 14.097L22.187 16.094C22.783 16.352 23.11 17.004 22.964 17.632Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_4)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="155" x="254.40625 261.43476 267.78645 272.2118 278.71965 285.07133 289.49668 293.92204 300.20863 306.5603 313.23738 319.49794">+21621122439</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="150" x="326.28126"> </tspan></text>
+</g>
+<g clip-path="url(#clip_5)">
+<path transform="matrix(.40625,0,0,.40625,41.25,129.75)" d="M12.3 24C10.668667 22.556559 9.168667 20.987559 7.8 19.293 5.743 16.745999 3.3000003 12.952 3.3000003 9.3359999 3.298 5.5609996 5.491 2.1559997 8.856 .7109995 12.22-.73400047 16.093 .06499946 18.666 2.7359997 20.359002 4.4839999 21.308 6.8599998 21.300002 9.3359999 21.300002 12.952 18.857 16.745999 16.800002 19.293 15.431312 20.987534 13.931312 22.556534 12.3 24ZM12.3 5.337C10.922 5.337 9.649 6.099 8.96 7.337 8.6155209 7.9589898 8.443281 8.625489 8.443281 9.3365 8.443281 10.047511 8.6155209 10.714011 8.96 11.336 9.649 12.573 10.922 13.336 12.3 13.336 14.43 13.336 16.157 11.545 16.157 9.336 16.157 7.1280004 14.429999 5.3370006 12.299999 5.3370006L12.3 5.337Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_6)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="184" x="76.59375 85.027957 91.19742 98.0437 103.90079 109.13312 111.63214 118.81682 125.88437 133.04303 136.53125 141.76358 145.2518">Gabes Tunisia</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="179" x="151.42188"> </tspan></text>
+</g>
+<g clip-path="url(#clip_7)">
+<path transform="matrix(.40625,0,0,.40625,123.75,129.75)" d="M20.447 20.452H16.893002V14.882999C16.893002 13.554999 16.866002 11.846 15.041001 11.846 13.188002 11.846 12.905002 13.290999 12.905002 14.785V20.452H9.351V9H12.764999V10.561H12.810999C13.287999 9.661 14.447999 8.7109999 16.181 8.7109999 19.782 8.7109999 20.448 11.080999 20.448 14.165999V20.452H20.447ZM5.337 7.433C4.193 7.433 3.274 6.507 3.274 5.368 3.274 4.23 4.194 3.305 5.337 3.305 6.4769999 3.305 7.401 4.23 7.401 5.368 7.401 6.507 6.476 7.433 5.337 7.433ZM7.119 20.452H3.555V9H7.1190006V20.452H7.119ZM22.225 0H1.7709999C.79199996 0 0 .774 0 1.729V22.271C0 23.227 .79199996 24 1.7709999 24H22.222C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0H22.225Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_8)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="184" x="186.0625 189.56374 193.05196 200.21062 206.48419 212.34128 219.35677 222.84499 230.00365 232.85407 238.32067 244.93267 255.38428 259.8877 263.37593 270.27424 275.038 278.9167 284.77378 289.5115 292.99974 298.8568 302.35804 307.2129 310.50587 316.67533 323.5216 328.25935">linkedin.com/in/feriel-jabri</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="179" x="331.75"> </tspan></text>
+</g>
+<g clip-path="url(#clip_9)">
+<path transform="matrix(.40625,0,0,.40625,68.25,151.5)" d="M12 .29700003C5.37 .29700003 0 5.67 0 12.297 0 17.6 3.438 22.097 8.205 23.682 8.805 23.795 9.025 23.424 9.025 23.105 9.025 22.82 9.014999 22.064999 9.009999 21.064999 5.671999 21.788998 4.9679996 19.454998 4.9679996 19.454998 4.422 18.07 3.633 17.7 3.633 17.7 2.546 16.956002 3.717 16.971 3.717 16.971 4.922 17.055 5.5550005 18.207 5.5550005 18.207 6.6250007 20.042 8.364 19.512001 9.05 19.205 9.158 18.429 9.467 17.9 9.81 17.6 7.1450006 17.300002 4.3440005 16.268 4.3440005 11.67 4.3440005 10.360001 4.8090007 9.29 5.5790007 8.45 5.4440004 8.146999 5.0390007 6.927 5.6840007 5.2739999 5.6840007 5.2739999 6.6890008 4.9519999 8.984 6.5039999 9.944 6.2369997 10.964001 6.1049997 11.984 6.0989997 13.004 6.1049997 14.024 6.2369997 14.984 6.5039999 17.264 4.9519999 18.269001 5.2739999 18.269001 5.2739999 18.914002 6.927 18.509 8.146999 18.389002 8.45 19.154002 9.29 19.619002 10.36 19.619002 11.67 19.619002 16.28 16.814002 17.295 14.144001 17.59 14.564001 17.95 14.954001 18.686 14.954001 19.81 14.954001 21.416 14.939001 22.706 14.939001 23.095999 14.939001 23.411 15.149001 23.786 15.764001 23.665999 20.565 22.092 24 17.592 24 12.297 24 5.67 18.626999 .29699994 12 .29699994" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_10)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="213" x="111.671878 118.11467 121.60289 126.01523 133.17389 140.24144 146.89246 149.74288 155.20948 161.82147 172.27309 177.03685 180.91553 186.77262 191.51035 194.99857 200.85565 204.35689 209.21176">github.com/feriel-j</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="208" x="212.51563"> </tspan></text>
+</g>
+<g clip-path="url(#clip_11)">
+<path transform="matrix(.40625,0,0,.40625,169.5,151.5)" d="M6.81 6.045 5.6870005 9.25H18.311L17.19 6.045C16.974614 5.431782 16.541947 5.125115 15.892 5.125H8.107C7.5230004 5.125 7.0030004 5.495 6.8090007 6.045H6.81ZM2.701 9.456 4.213 5.1380007C4.502517 4.3107888 5.0046269 3.6435583 5.719328 3.1363095 6.4340298 2.6290606 7.229587 2.3752909 8.106 2.3750005H15.892C16.768414 2.375291 17.56397 2.6290608 18.278672 3.1363099 18.993372 3.6435586 19.495482 4.3107888 19.785 5.1380007L21.296999 9.456C21.81197 9.668764 22.224434 10.006658 22.534388 10.46968 22.844346 10.932702 22.999548 11.442809 23 12V20.25C23 21.01 22.386 21.625 21.625 21.625H20.25C19.49 21.625 18.875 21.011 18.875 20.25V18.187H5.125V20.25C5.125 21.01 4.511 21.625 3.75 21.625H2.375C1.615 21.625 1 21.011 1 20.25V12C1 10.853 1.7049999 9.8689999 2.702 9.455999L2.701 9.456ZM6.5 13.375C6.4999997 12.995303 6.365757 12.671212 6.0972716 12.402727 5.8287866 12.134242 5.504696 12 5.1250007 12 4.7453048 12 4.4212138 12.134242 4.152728 12.402727 3.8842426 12.671212 3.7499998 12.995303 3.75 13.375 3.7499998 13.754695 3.8842426 14.078786 4.152728 14.347271 4.4212138 14.615756 4.7453048 14.749999 5.1250007 14.75 5.504696 14.749999 5.8287866 14.615756 6.0972716 14.347271 6.365757 14.078786 6.4999997 13.754695 6.5 13.375ZM18.875 14.75C19.254694 14.749999 19.578785 14.615756 19.847271 14.347271 20.115756 14.078786 20.249999 13.754695 20.25 13.375 20.249999 12.995303 20.115756 12.671212 19.847271 12.402727 19.578785 12.134242 19.254694 12 18.875 12 18.495305 12 18.171214 12.134242 17.902728 12.402727 17.634242 12.671212 17.499999 12.995303 17.5 13.375 17.499999 13.754695 17.634242 14.078786 17.902728 14.347271 18.171214 14.615756 18.495305 14.749999 18.875 14.75Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_12)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="213" x="247.15625 253.8073 257.29554 262.76216 268.61924 275.7779 281.01023 286.8673 289.36634">License B</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="208" x="296.65626"> </tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M37 261H350V262H37Z" fill="#0e374e"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M37 291H350V292H37Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_13)">
+<path transform="matrix(.026367188,0,0,.026367188,115.5,201)" d="M0 224.2C0 100.6 100.2 0 224 0H256C351.2 0 430.2 69.3 445.4 160.1 447.6 173.1 452.1 185.8 460.4 196.20001L502.4 248.80002C508.6 256.6 512 266.2 512 276.2 512 300.40003 492.4 320 468.2 320H448V384C448 419.3 419.3 448 384 448H320V480C320 497.7 305.7 512 288 512H96C78.3 512 64 497.7 64 480V407.3C64 390.59999 57.1 374.8 46.9 361.5 16.6 322.4 0 274.1 0 224.2ZM285.3 208H336C362.5 208 384 186.5 384 160 384 133.5 362.5 112 336 112 335.1 112 334.2 112 333.3 112.1 326.7 93.4 308.9 80 288 80 279.4 80 271.4 82.2 264.5 86.2 255.9 72.8 241 64 224 64 207 64 192.1 72.8 183.5 86.2 176.5 82.299999 168.5 80 160 80 133.5 80 112 101.5 112 128 85.5 128 64 149.5 64 176 64 196.9 77.4 214.7 96.1 221.3 96.1 222.2 96 223.1 96 224 96 250.5 117.5 272 144 272 149.6 272 155 271 160 269.3V288C160 305.7 174.3 320 192 320 209.7 320 224 305.7 224 288V269.3C229 271.09999 234.4 272 240 272 266.5 272 288 250.5 288 224 288 218.4 287 213 285.3 208ZM160 176V178.7H159.9C159.9 177.8 160 176.9 160 176Z" fill="#0e374e"/>
+<path transform="matrix(.026367188,0,0,.026367188,115.5,201)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#0e374e" d="M0 224.2C0 100.6 100.2 0 224 0H256C351.2 0 430.2 69.3 445.4 160.1 447.6 173.1 452.1 185.8 460.4 196.20001L502.4 248.80002C508.6 256.6 512 266.2 512 276.2 512 300.40003 492.4 320 468.2 320H448V384C448 419.3 419.3 448 384 448H320V480C320 497.7 305.7 512 288 512H96C78.3 512 64 497.7 64 480V407.3C64 390.59999 57.1 374.8 46.9 361.5 16.6 322.4 0 274.1 0 224.2ZM285.3 208H336C362.5 208 384 186.5 384 160 384 133.5 362.5 112 336 112 335.1 112 334.2 112 333.3 112.1 326.7 93.4 308.9 80 288 80 279.4 80 271.4 82.2 264.5 86.2 255.9 72.8 241 64 224 64 207 64 192.1 72.8 183.5 86.2 176.5 82.299999 168.5 80 160 80 133.5 80 112 101.5 112 128 85.5 128 64 149.5 64 176 64 196.9 77.4 214.7 96.1 221.3 96.1 222.2 96 223.1 96 224 96 250.5 117.5 272 144 272 149.6 272 155 271 160 269.3V288C160 305.7 174.3 320 192 320 209.7 320 224 305.7 224 288V269.3C229 271.09999 234.4 272 240 272 266.5 272 288 250.5 288 224 288 218.4 287 213 285.3 208ZM160 176V178.7H159.9C159.9 177.8 160 176.9 160 176Z"/>
+</g>
+<g clip-path="url(#clip_14)">
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="18" font-family="CrimsonPro" font-weight="bold"><tspan y="282" x="183.21875 192.71875 204.71485 211.2793 221.46485 231.5625">SKILLS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="322" x="37.234376 45.107988 50.84102 58.819429 67.621128 72.965 80.09018 88.89188 97.274448 100.22331 110.806308 117.82669 125.02669 132.15187 136.6126 144.591 153.03345 166.01146 173.13665 181.93834">Frontend Development</tspan></text>
+</g>
+<g clip-path="url(#clip_15)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,256.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_16)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="349" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="349" x="59.890626 67.11435 72.971439 79.1409 84.67259 89.08493 92.130619 95.4236">React.js</tspan></text>
+</g>
+<g clip-path="url(#clip_17)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,269.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_18)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="366" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="366" x="59.890626 67.140399 73.30986 80.29932 86.1564 92.390949 97.92264 102.66037 106.14859 113.13805">TypeScript</tspan></text>
+</g>
+<g clip-path="url(#clip_19)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,282)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_20)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="383" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="383" x="59.890626 67.11435 72.971439 79.98692 87.054477">Redux</tspan></text>
+</g>
+<g clip-path="url(#clip_21)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,294.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_22)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="400" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="400" x="59.890626 67.28354 74.35109 80.14308 83.18877 86.48175">Vue.js</tspan></text>
+</g>
+<g clip-path="url(#clip_23)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,307.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_24)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="417" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="417" x="59.890626 68.63721 75.88698 86.95036">HTML</tspan></text>
+</g>
+<g clip-path="url(#clip_25)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,320.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_26)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="434" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="434" x="59.890626 67.75214 73.98668">CSS</tspan></text>
+</g>
+<g clip-path="url(#clip_27)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,333)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_28)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="451" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="451" x="59.890626 66.54167 72.39876 77.63109">Less</tspan></text>
+</g>
+<g clip-path="url(#clip_29)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,345.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_30)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="468" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="468" x="59.890626 62.38965 68.62419 72.945407 79.5574 84.32117 90.399509 97.24579 103.85779 110.46979"> Storybook</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="508" x="37.234376 46.245637 53.715105 60.510957 68.65401 75.77919 84.58089 92.963459 95.91232 106.495319 113.5157 120.7157 127.84088 132.3016 140.28002 148.72246 161.70047 168.82566 177.62735">Backend Development</tspan></text>
+</g>
+<g clip-path="url(#clip_31)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,396.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_32)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="535" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="535" x="59.890626 68.57211 75.18411 82.1996 87.99159 91.03728 94.33026">Node.js</tspan></text>
+</g>
+<g clip-path="url(#clip_33)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,409.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_34)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="552" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="552" x="59.890626 68.57211 74.4292 79.66153 84.07387 87.11955 90.41254">Nest.js</tspan></text>
+</g>
+<g clip-path="url(#clip_35)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,422.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_36)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="569" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="569" x="59.890626 67.46579 74.15588 78.190769 80.68979 89.56653 95.423618 100.655948 104.144168 110.58696 117.74562 120.244647 124.93031 132.31024 139.547 145.71645 152.44551 155.4912 157.99022 166.42443 170.90181 177.07128 184.06073 191.21939 200.1482 206.66907">API Design (REST, GraphQL)</tspan></text>
+</g>
+<g clip-path="url(#clip_37)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,435)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_38)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="586" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="586" x="59.890626 62.38965 73.45303 76.94125 82.472949 86.924289 93.536289 98.768619 104.6257 109.389469 115.55893 119.04715 124.51375 130.37084 135.60317 138.10219 145.67736 150.1287 155.59529 162.75395 166.24217 170.56339 176.42047 181.95217 186.3645 193.43206 197.88339"> Microservices Architecture</tspan></text>
+</g>
+<g clip-path="url(#clip_39)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,447.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_40)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="603" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="603" x="59.890626 65.96896 75.678699 81.84816 88.290958 94.668659 100.52574">Swagger</tspan></text>
+</g>
+<g clip-path="url(#clip_41)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,460.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_42)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="620" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="620" x="59.890626 66.32037 72.93237 78.1647 82.57704 93.289 99.458469 106.61713 109.11615 112.99483 119.60683 124.34456 126.84358 134.41875 141.10884 145.14373 147.64275 154.65824 161.27024 166.80193 173.86948 184.58144 190.43852 197.59719 201.94443 208.11389 212.52623 216.01445 222.62645 229.78511 232.28414 238.4536 245.61226 252.62775 255.12677 259.448 265.30509 270.5374 274.94978 278.438 285.59666">Postman for API documentation and testing</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="661" x="37.234376 47.817369 55.286836 60.73549 68.204959 76.54262 84.012088 90.254108 97.37929">Databases</tspan></text>
+</g>
+<g clip-path="url(#clip_43)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,511.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_44)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="688" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="688" x="59.890626 70.95401 77.56601 84.72467 91.10237 97.71437 106.59111">MongoDB</tspan></text>
+</g>
+<g clip-path="url(#clip_45)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,524.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_46)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="705" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="705" x="59.890626 66.32037 72.93237 78.1647 82.485919 88.92871 93.38005 99.23714 105.47168 114.40048">PostgreSQL</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="746" x="37.234376 45.61685 52.742036 58.69963 64.94165 69.387409 77.365818 86.16751 89.11638 98.35216 106.33057 115.13226 120.65578 126.38881 134.36722 138.82794 141.77681 153.37769 156.32656 165.56233 173.54074 178.00147 182.46219 189.93166 198.26932 206.24773 212.08556 219.55503 225.07854 229.52429 237.5027">Version Control &#x0026; Collaboration</tspan></text>
+</g>
+<g clip-path="url(#clip_47)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,574.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_48)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="773" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="773" x="59.890626 68.32483 71.81305 76.22539 84.97197 92.03952">GitHub</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="813" x="37.234376 47.817369 54.94255 61.18457 65.630329 73.3842 82.1859 85.134769 96.73564 99.68451 108.18683 113.91986 121.89827 127.24214 135.22055 140.56443 148.12372 156.56616 161.01192 169.81362">Design &#x0026; Prototyping</tspan></text>
+</g>
+<g clip-path="url(#clip_49)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,625.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_50)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="840" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="840" x="59.890626 66.38547 69.87369 76.31648 87.02844 93.19791 96.24359 98.742618 105.43271 109.88405 116.49605 120.81726 127.42926 131.75048 137.91994 144.9094 148.39762 155.55628 161.99907 164.4981 170.66756 177.82622 184.8417 187.34073 191.37561 198.53427 202.85549 208.71257 213.18996 219.35942 224.89112 229.30345 232.79167 238.81795 244.67504 247.17406 256.05079 261.90788 267.1402 270.62843 277.07124">Figma, Prototyping and Interactive Design</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="881" x="37.234376 44.898439 52.876848 57.801607 63.32512 66.27399 73.93805 82.26074 86.7065 91.16722 95.627948">Soft Skills</tspan></text>
+</g>
+<g clip-path="url(#clip_51)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,676.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_52)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="908" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="908" x="59.890626 66.54167 72.39876 78.56822 85.58371 91.440799 96.0874 101.31973 108.47839 111.96661 118.95607 121.45509 127.62456 134.78322 141.7987 144.29773 151.0268 156.88388 163.05335 173.7653 176.26433 184.06075 190.67275 194.17398 197.67522 203.84468 210.69097 217.30297 221.78035 227.94982 232.36215 235.85037 242.46237">Leadership and Team Collaboration</tspan></text>
+</g>
+<g clip-path="url(#clip_53)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,689.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_54)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="925" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="925" x="59.890626 66.58072 70.081958 76.25142 83.41008 90.56874 94.05696 101.21562 107.65842 110.15744 119.43767 121.93669 130.8655 135.36891 141.74662 147.91608 155.07474 158.56296 164.21179 170.38126 174.7936 178.28182 184.89382">Planning &#x0026; Organization</tspan></text>
+</g>
+<g clip-path="url(#clip_55)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,702)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_56)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="942" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="942" x="59.890626 66.61969 72.476779 77.943378 85.102039 92.2607 95.74892 101.28061 107.45007 110.95131 113.45033 120.14043 124.59177 131.20377 138.05005 141.55129 147.40837 158.12033 160.61936 166.8539 173.4659 176.96714 183.1366 186.62482 193.78348">Technical Problem Solving</tspan></text>
+</g>
+<g clip-path="url(#clip_57)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,714.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_58)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="959" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="959" x="59.890626 67.400699 73.84349 77.33171 80.83295 86.69003 89.18906 100.25244 106.10953 110.521869 117.68053 124.29253 131.30802 137.92002 141.42125 148.03325 154.47605 157.96427 163.82135">Agile Methodologies</tspan></text>
+</g>
+<g clip-path="url(#clip_59)">
+<path transform="matrix(.14999999,0,0,.14999999,36.75,727.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_60)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="976" x="59.890626">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="976" x="59.890626 70.95401 76.8111 83.96976 88.29097 94.90297 99.549579 104.781909 111.94057 115.42879 122.41824 124.91727 134.1975 136.69652 144.49294 151.10494 157.2744 162.741 169.89966 173.38788 180.54654">Mentorship &#x0026; Coaching</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M377 55H779V56H377Z" fill="#0e374e"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M377 85H779V86H377Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_61)">
+<path transform="matrix(.024739584,0,0,.024739584,398.25,46.64496)" d="M64 32C28.7 32 0 60.7 0 96V416C0 451.3 28.7 480 64 480H512C547.3 480 576 451.3 576 416V96C576 60.7 547.3 32 512 32H64ZM144 288H208C252.2 288 288 323.8 288 368 288 376.8 280.8 384 272 384H80C71.2 384 64 376.8 64 368 64 323.8 99.8 288 144 288ZM240 192C240 227.3 211.3 256 176 256 140.7 256 112 227.3 112 192 112 156.7 140.7 128 176 128 211.3 128 240 156.7 240 192ZM368 160H496C504.8 160 512 167.2 512 176 512 184.8 504.8 192 496 192H368C359.2 192 352 184.8 352 176 352 167.2 359.2 160 368 160ZM368 224H496C504.8 224 512 231.2 512 240 512 248.8 504.8 256 496 256H368C359.2 256 352 248.8 352 240 352 231.2 359.2 224 368 224ZM368 288H496C504.8 288 512 295.2 512 304 512 312.8 504.8 320 496 320H368C359.2 320 352 312.8 352 304 352 295.2 359.2 288 368 288Z" fill="#0e374e"/>
+<path transform="matrix(.024739584,0,0,.024739584,398.25,46.64496)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#0e374e" d="M64 32C28.7 32 0 60.7 0 96V416C0 451.3 28.7 480 64 480H512C547.3 480 576 451.3 576 416V96C576 60.7 547.3 32 512 32H64ZM144 288H208C252.2 288 288 323.8 288 368 288 376.8 280.8 384 272 384H80C71.2 384 64 376.8 64 368 64 323.8 99.8 288 144 288ZM240 192C240 227.3 211.3 256 176 256 140.7 256 112 227.3 112 192 112 156.7 140.7 128 176 128 211.3 128 240 156.7 240 192ZM368 160H496C504.8 160 512 167.2 512 176 512 184.8 504.8 192 496 192H368C359.2 192 352 184.8 352 176 352 167.2 359.2 160 368 160ZM368 224H496C504.8 224 512 231.2 512 240 512 248.8 504.8 256 496 256H368C359.2 256 352 248.8 352 240 352 231.2 359.2 224 368 224ZM368 288H496C504.8 288 512 295.2 512 304 512 312.8 504.8 320 496 320H368C359.2 320 352 312.8 352 304 352 295.2 359.2 288 368 288Z"/>
+</g>
+<g clip-path="url(#clip_62)">
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="18" font-family="CrimsonPro" font-weight="bold"><tspan y="76" x="560.2031 570.6875 581.8926 594.8203 604.77737 611.3418 621.52737">PROFILE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="115" x="376.82814 388.85466 392.34288 396.7552 403.91386 406.41288 412.58235 415.08137 421.92765 428.0971 433.56373 439.83729 446.2801 450.73146 457.34346 464.411 471.56968 478.58515 481.08418 487.25364 492.48597 494.985 501.15446 508.3131 510.81214 516.6692 523.8279 530.2707 533.7589 540.9176 546.77468 552.6317 557.36947 559.86849 563.3567 570.5154 573.0144 580.14706 586.17337 593.18887 597.66629 603.8357 610.90328 614.4045 617.8927 623.4244 625.9234 631.7805 638.9392 645.382 648.87026 656.0289 661.886 667.74307 672.4808 675.969 683.1277 689.57046 692.06948 698.2389 705.3976 712.4131 714.9121 721.9797 726.65237 733.49868 739.6681">With a background as an engineer in hydraulic engineering and urban</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="115" x="746.8281"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="132" x="376.82814 383.81758 387.3188 393.48826 400.6469 407.80558 411.2938 418.45246 424.69999 427.74568 430.2447 440.9306 447.07405 449.57307 454.8054 461.87294 467.33955 472.80616 478.66325 483.89558 489.1279 493.07167 500.13923 503.64045 506.13948 510.55183 515.0292 521.1986 528.3573 533.5896 537.0778 541.4902 544.9784 551.5904 558.749 561.24807 565.5693 572.1813 574.6803 584.364 590.156 597.0023 599.50137 606.51687 612.3479 618.37417 624.2312 627.7324 634.3444 641.33389 652.04586 657.9029 665.0616 669.4739 671.9729 679.1316 685.301 690.5333 693.03237 696.53359 702.3907 709.4061 711.90518 722.61709 728.4742 730.9732 735.29446 741.90646 744.40548 748.81777 755.97647">planning, my successful transition to web development has led me to the</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="132" x="761.84378"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="149" x="376.82814 381.27949 387.89149 391.3927 397.2498 399.7488 406.3608 410.30458 412.8036 419.53266 425.38975 430.85633 438.01499 440.514 447.16505 453.02214 459.1916 466.2071 468.70613 475.20097 479.65229 486.26429 493.42295 497.74415 503.60124 510.7599 517.7754 520.2744 526.44387 530.8562 533.3552 540.592 545.06936 551.2388 555.6511 562.8098 566.29806 571.5304 574.0294 578.06436 584.7934 587.8391 590.33816 601.4015 607.5449 610.04397 616.65597 623.5022 626.79519 632.6522 638.18399 642.5963 646.08456 652.11087 657.9679 661.01358 663.5126 667.8338 674.4458 676.9448 683.9603 689.8174 695.0497 698.5379 704.9807 712.1394 714.6384 720.3393 726.37857 731.8451 737.7022 744.69168 749.104 752.5922 759.2042 766.36288 772.53237">role of Tech Lead Frontend at Erathis IT. My objective: to design exceptional</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="149" x="776.0469"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="166" x="376.82814 383.8957 389.12803 394.9851 399.72285 402.22187 407.92274 414.1833 421.17274 427.02983 431.76756 435.25578 441.11286 448.2715 453.7381 459.59519 464.8275 467.32655 474.1468 480.29023 482.78926 488.25587 494.86787 505.57984 512.42617 515.91439 523.073 526.5612 533.71987 540.16268 542.6617 548.8312 555.8467 561.899 568.0685 575.2272 580.6938 586.5509 593.5664 596.0654 600.38668 606.2438 611.7104 618.869 626.0277 629.5159 635.0476 641.21707 644.71829 647.2173 652.91818 659.1787 666.1682 672.02529 676.763 681.17538 684.6636 689.8959 695.753 698.252 708.07888 711.5671 715.9794">user experiences by combining advanced technical expertise with</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="166" x="723.1406"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="183" x="376.82814 381.24049 388.39915 395.01115 402.07868 408.52149 415.68016 420.09248 424.03627 431.10383 434.60505 437.10408 444.11958 449.97666 455.20899 458.6972 465.14 472.29869 475.34437 477.84339 486.72013 491.45787 494.94609 500.97236 506.82945 513.9881 516.4871 523.3074 529.4508 531.9498 538.11929 540.6183 547.6077 553.7772 559.0095 564.2418 567.73007 574.34207 581.50076 583.99978 587.8784 594.4904 599.22817 601.7272 607.1938 613.8058 620.9645 625.37686 628.86508 636.02377 643.0913 649.7033 656.7709 662.00326 664.50228 668.0035 673.8606 680.03 684.76779 691.9264 695.4146 702.57327 708.8208 711.86648 714.3655 718.4004 720.8994 727.06887 737.7808 740.27987 746.89187 753.8813 759.7384">thoughtful design. Driven by a passion for continuous learning, I am open</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="183" x="766.90628"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="200" x="376.82814 381.14936 387.76136 390.26039 395.727 402.339 405.8402 409.34144 415.5109 422.35719 428.96919 433.44657 439.61604 444.02839 447.5166 454.1286 461.28727 463.7863 470.3983 477.38777 484.3772 490.9892 495.72694 500.13929 507.20686 514.3655 517.8537 522.26608 525.7543 531.6113 536.77859">to collaboration opportunities.</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M377 240H779V241H377Z" fill="#0e374e"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M377 270H779V271H377Z" fill="#0e374e"/>
+</g>
+<g clip-path="url(#clip_63)">
+<path transform="matrix(.026367188,0,0,.026367188,336,184.5)" d="M184 48H328C332.4 48 336 51.6 336 56V96H176V56C176 51.6 179.6 48 184 48ZM128 56V96H64C28.7 96 0 124.7 0 160V256H192 320 512V160C512 124.7 483.3 96 448 96H384V56C384 25.1 358.9 0 328 0H184C153.1 0 128 25.1 128 56ZM512 288H320V320C320 337.7 305.7 352 288 352H224C206.3 352 192 337.7 192 320V288H0V416C0 451.3 28.7 480 64 480H448C483.3 480 512 451.3 512 416V288Z" fill="#0e374e"/>
+<path transform="matrix(.026367188,0,0,.026367188,336,184.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#0e374e" d="M184 48H328C332.4 48 336 51.6 336 56V96H176V56C176 51.6 179.6 48 184 48ZM128 56V96H64C28.7 96 0 124.7 0 160V256H192 320 512V160C512 124.7 483.3 96 448 96H384V56C384 25.1 358.9 0 328 0H184C153.1 0 128 25.1 128 56ZM512 288H320V320C320 337.7 305.7 352 288 352H224C206.3 352 192 337.7 192 320V288H0V416C0 451.3 28.7 480 64 480H448C483.3 480 512 451.3 512 416V288Z"/>
+</g>
+<g clip-path="url(#clip_64)">
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="18" font-family="CrimsonPro" font-weight="bold"><tspan y="261" x="477 487.48439 498.68946 511.6172 521.5742 532.3047 541.8047 551.3047 557.86917 570.7969 583.4785 594.6836 604.86917 608.83206 619.3867 630.55667 641.041 651.7715 663.24026 669.8047 680.53518 693.3047 704.7383">PROFESSIONAL EXPERIENCE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="300" x="376.82814 384.70173 390.43476 397.55995 404.68513 409.14585 416.6153 425.417 432.21284 439.26316 443.5293">Freelance, </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="300" x="446.48439 454.35798 460.091 468.0694 476.8711 482.21498 489.34016 498.14186 506.5244">Frontend </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="300" x="509.48439 520.0674 527.08779 534.2878 541.41299 545.87368 553.85208 562.2945 569.4197 575.5569">Developer </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="300" x="578.5156 590.1165">&#x0026; </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="300" x="593.0781 601.326 608.4512 615.92068 622.05789 630.85958 637.98477">Learner</tspan></text>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="323" x="376.82814 384.36427 388.26893 393.03269 399.38438 406.7903 413.142 419.4286 421.9276 428.4355 430.9345 437.92396 442.3753 448.2324 453.46473 459.3218 466.48048">01/2025 &#x2013; present</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="323" x="470.90626 473.40528 476.9716"> | </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="323" x="479.48439 486.7081 492.5652 503.27717 509.88917 514.2104">Remote</tspan></text>
+</g>
+<g clip-path="url(#clip_65)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,254.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_66)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="346" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="346" x="399.48439 406.7732 413.84077 417.32899 420.8302 425.24256 427.74159 432.19294 438.05003 443.28236 450.2718 456.8838 464.04246 469.27479 472.763 478.78929 484.64637 487.1454 493.31486 500.4735 507.489 509.98805 517.0556 522.28799 528.145 532.88278 537.7376 541.6814 546.4191 549.90737 555.7644 562.9231 569.9386 573.4398 579.58328 582.0823 591.766 597.558 604.4043 606.9033 610.39157 617.5502 621.8714 627.7285 632.46627 636.41006 642.57949 648.0461 653.9032 659.1355 661.6345 668.7021 673.93447 677.42269 684.5813 691.0241 693.52316 700.7468 706.60397 712.7734 718.30508 722.7174">Built responsive and user-friendly web interfaces using React,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="346" x="725.7656"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="363" x="399.48439 406.73414 412.9036 419.89308 425.75016 431.98469 437.51637 442.2541 445.7423 452.73176 457.1441 460.1898 462.6888 468.85829 476.01695 483.0324 485.53144 496.2434 502.8554 509.8709 515.728 520.46578 527.6244 530.1234 537.9849 544.2195 550.3889">TypeScript, and modern CSS.</tspan></text>
+</g>
+<g clip-path="url(#clip_67)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,281.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_68)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="381" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="381" x="399.48439 411.15943 417.77143 422.41804 428.6916 434.54869 441.56416 444.06318 453.89009 457.3783 461.79066 468.9493 471.44834 476.91493 480.41615 483.90437 489.76145 496.9201 501.20228 506.4346 508.93363 513.2548 519.8668 522.36587 529.4334 536.59207 543.60757 549.4646 554.1112 559.3435 563.69076 569.8602 577.0189 584.0344 586.53347 593.69216 599.5492 605.40628 612.42178 617.65408 620.1531 626.3225 633.4812 640.4967 642.9957 650.0112 655.8683 659.3695 662.8577 668.884 674.7411 679.4788 681.97787 686.3251 692.4945 695.9827 699.484 706.096 710.54739 716.4044 723.4199 725.91897 731.15127 737.76327 741.2645 748.33206 752.7444 756.2326 762.8446 770.0033 775.17056">Worked with clients to understand needs and deliver tailored solutions.</tspan></text>
+</g>
+<g clip-path="url(#clip_69)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,294.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_70)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="399" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="399" x="399.48439 407.3459 411.79725 417.65434 423.8238 428.14503 434.0021 441.01759 443.5166 450.50605 456.36314 461.00975 466.24208 472.85408 480.01274 486.1822 489.6834 492.18244 496.12623 503.1938 506.695 510.19624 515.4286 519.7758 525.9453 531.4119 537.7766 540.27566 547.2651 551.71646 558.3284 561.6214 567.4785 573.0102 577.29238 582.52468 585.0237 592.09127 597.3236 600.8118 607.97048 614.41329 616.9123 625.59378 632.20578 639.22128 645.01327 648.05899 651.3519 656.51919 659.5648 662.06387 669.0793 675.33987 682.32937 686.78067 692.6377 697.87 703.03726 706.0829 708.5819 714.75137 721.91006 728.92556 731.42459 740.106 745.96316 751.19546 755.6078 759.6427">Created personal fullstack projects using Node.js, Express, and NestJS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="399" x="765.8906"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="416" x="399.48439 403.8056 410.4176 412.91664 418.14897 422.56129 427.01264 432.86973 440.02839 446.4712 450.88356 458.0422 463.8993 471.05796 473.55699 480.40327 486.57273 492.0393 498.31288 504.16996 511.3286 518.3441 520.84317 526.07546 532.4401 535.92837 539.42959 542.9308 548.098">to strengthen backend skills.</tspan></text>
+</g>
+<g clip-path="url(#clip_71)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,321)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_72)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="435" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="435" x="399.48439 403.51927 414.2312 421.22065 425.672 432.25798 438.28425 444.14134 451.1568 453.65583 459.12245 465.73445 472.74995 476.23817 483.39683 489.8396 492.33863 499.32807 503.80546 509.9749 515.5066 519.91897 523.40719 528.8738 534.73086 539.8981 542.9437 545.44277 552.4322 558.2893 563.02706 566.9057 573.5177 578.25546 588.9674 595.13687 602.29556 607.76217 613.55416 616.59988 619.0989 625.2683 632.427 639.4425 641.9415 648.11099 652.5623 658.02896 665.1876 668.67587 672.9971 678.8542 684.38589 688.7982 695.8657 700.317 706.17416 708.67318 713.08547 720.24417 724.6955 731.3075 738.375 744.81777 751.97647 754.47549 759.70779 765.5649 769.0661 773.0099">Improved coding practices, performance, and architecture through self-</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="452" x="399.48439 402.9856 408.84269 415.85816 418.35719 425.34663 429.79798 436.40998 439.70295 445.56004 451.09175 455.3739 460.60624 463.10527 469.27473 476.43339 483.44886 485.94789 492.55989 499.71855 503.2198 506.708 513.8667 519.72378 522.2228 527.6894 534.3014 541.36898 546.01559 551.2479 557.105 562.2722">led projects and online courses.</tspan></text>
+</g>
+<g clip-path="url(#clip_73)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,348)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_74)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="470" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="470" x="399.48439 407.2808 413.8928 424.60475 435.3167 438.80494 443.2173 447.5385 453.3956 460.41108 462.9101 467.23133 473.84333 476.34236 481.80897 488.42097 495.57963 499.99195 503.48017 510.63883 517.70639 524.31838 531.3859 536.6183 539.1173 542.6185 548.4756 554.645 559.38278 566.5414 570.0296 577.18826 583.63107 586.13009 590.4513 597.0633 599.5623 604.7947 609.1419 615.2463 621.3897 623.88876 629.4204 636.488 641.2257 645.67709 651.5342 658.6928 663.10519 665.6042 675.4311 678.9193 683.33169 690.49038 692.9894 703.70138 710.31338 717.32888 723.1859 727.92367 735.0823 737.5813 747.265 753.057">Committed to continuous learning to stay current with modern web</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="470" x="759.90628"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="487" x="399.48439 406.49989 412.33094 418.3572 424.2143 427.7155 434.3275 441.31697 452.02894 457.88603 465.04469 469.45704 471.95606 476.3684 480.81977 486.67686 493.8355 500.851 506.01826">development trends.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="526" x="376.82814 385.54 394.23686 402.69419 411.85514 422.36329 427.52754 435.1916">ERATHIS </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="526" x="438.14064 443.30488 451.73225 455.99836">IT, </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="526" x="458.95314 467.51527 474.64045 481.43629 490.23799">Tech </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="526" x="493.1875 501.43537 508.56056 516.03">Lead</tspan></text>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="549" x="376.82814 384.23408 390.3254 395.08918 401.44087 408.8468 415.1985 421.52415 424.02317 430.53105 433.03007 437.4554 443.54676 448.31053 454.6622 462.06816 468.41984">02/2023 &#x2013; 12/2024</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="549" x="475.23439 477.7334 481.2997"> | </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="549" x="483.8125 490.04707 496.65907 503.72663 508.95896 514.1913 519.9833">Sousse,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="549" x="523.03128 525.5303 532.71499 539.78256 546.94119 550.4294 555.66177 559.14999"> Tunisia</tspan></text>
+</g>
+<g clip-path="url(#clip_75)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,423.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_76)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="572" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="572" x="399.48439 408.3611 414.2182 419.45054 422.93876 429.38154 436.5402 439.0392 445.20869 452.36735 459.3828 461.88185 468.89735 474.7284 480.75468 486.61177 490.11299 496.72499 503.71443 514.4264 520.28347 527.44216 531.8545 534.3535 540.9655 544.9093 547.4083 554.567 558.05526 564.49807 571.65676 576.5116 583.50106 589.35818 594.0959 597.97457 604.58657 609.3243 620.03628 626.2057 633.3644 638.831 644.623 647.6687 650.1677 657.2353 662.4676 668.3247 673.06246 678.11257 683.57919 689.4363 696.595 700.9162 706.77328 711.2246 717.08169 724.09719 726.5962 736.2799 742.0719">Design and development of high-performance, user-centered web</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="572" x="748.9219"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="589" x="399.48439 405.65385 412.6433 419.63276 423.13398 426.6222 432.15388 438.32334 442.73567 446.22389 452.83589 459.99455 465.16178">applications.</tspan></text>
+</g>
+<g clip-path="url(#clip_77)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,450.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_78)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="607" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="607" x="399.48439 407.2808 413.8928 421.05146 425.4638 428.95204 436.1107 443.17823 449.79023 456.8578 462.09013 464.58915 471.20115 478.1906 482.60298 486.0912 496.80317 500.29139 505.94023 512.1097 516.52206 520.01028 526.62228 533.7809 536.2799 542.8919 546.8357 549.3347 556.32418 562.1813 566.919 570.79769 577.40969 582.1474 592.8594 599.0288 606.1875 611.6541 617.5112 620.01028 626.1797 633.3384 640.3539 642.8529 649.9205 655.15286 661.0099 665.7476 668.24667 673.9475 680.20809 687.1975 693.0546 697.79238 701.2806 707.13766 714.2963 719.76296 725.55496">Continuous optimization of performance and user experience.</tspan></text>
+</g>
+<g clip-path="url(#clip_79)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,464.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_80)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="626" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="626" x="399.48439 406.7081 412.5652 419.008 426.07557 429.57679 435.74626 440.48399 442.983 448.4496 455.06159 462.0771 467.93418 470.4332 474.88453 480.71559 486.88505 490.37327 496.2043 506.0052 508.5042 512.82546 519.43746 521.93649 527.7936 534.9523 540.1846 547.25216 551.7035 557.56057 560.0596 566.8798 573.9474 580.1168 583.61807 587.10629 591.4275 597.5709 600.06997 606.2394 613.3981 620.4136 622.9126 628.3792 634.9912 645.7032 652.6926 656.19387 659.68209 665.85159 673.01028 678.47689 684.3339 686.83297 696.65988 700.1481 704.5604 711.71908 714.2181 719.45046 723.79769 729.96719 737.12588 744.14138 750.3108 754.76217 761.77767 766.9449">Regular code review to ensure quality and compliance with standards.</tspan></text>
+</g>
+<g clip-path="url(#clip_81)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,477.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_82)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="644" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="644" x="399.48439 406.21345 412.07054 417.5371 424.69578 431.85444 435.34266 440.87434 447.0438 450.54505 453.04408 456.5453 462.40238 468.57185 475.58735 481.44444 486.09104 491.32337 498.48204 501.97026 508.95973 511.45875 517.6282 524.78689 531.80239 534.3014 538.6226 544.47976 550.6492 561.36117 563.86019 569.0925 576.1601 583.14956 590.139 596.751 601.4887 605.90109">Technical leadership and team support.</tspan></text>
+</g>
+<g clip-path="url(#clip_83)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,492)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_84)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="662" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="662" x="399.48439 403.51927 414.2312 421.22065 424.72187 430.57896 441.2909 447.14799 454.30665 458.65388 464.82334 469.23567 472.72389 479.33589 486.49455 488.99357 495.60557 499.54933 502.04835 508.89463 514.7517 519.984 524.39639 526.8954 533.9109 539.74197 545.7682 551.62527 555.12649 561.73849 568.7279 579.4399 585.297 592.4557 596.86807 599.36709 606.3565 610.83389 617.0033 622.535 626.9473 630.43557 635.90219 641.7593 646.9265">Implementation of best development practices.</tspan></text>
+</g>
+<g clip-path="url(#clip_85)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,505.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_86)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="681" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="681" x="399.48439 406.21345 412.07054 417.5371 424.69578 431.85444 438.46644 441.96766 448.57966 455.02247 461.1659 463.66493 473.37464 479.5441 483.8653 489.3319 496.49058 498.9896 505.15907 512.31777 519.33328 521.8323 525.3205 532.4791 536.80038 542.6575 549.1003 553.57766 559.7471 564.1594 567.64767 574.25967 581.41836 583.91738 590.52938 594.47317 596.97219 600.4604 607.619 614.7777 621.36367 627.41598 633.58547 637.9978 641.486 647.5123 653.3694 655.8684 661.1007 667.7127 671.214 678.2815 682.69387 686.18209 692.79409 699.95278 705.12">Technology watch and integration of innovative solutions.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="720" x="376.82814 385.54 394.23686 402.69419 411.85514 422.36329 427.52754 435.1916">ERATHIS </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="720" x="438.14064 443.30488 451.73225 455.99836">IT, </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="720" x="458.95314 466.82673 472.55976 480.53816 489.33985 494.68373 501.8089 510.6106 518.99319">Frontend </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="720" x="521.9531 535.7843 542.8346 551.17227">Web </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="720" x="554.125 564.708 571.7284 578.9284 586.0536 590.5143 598.4927 606.9351 614.0603">Developer</tspan></text>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="743" x="376.82814 384.36427 390.06507 394.82884 401.1805 408.58647 414.87306 421.22474 423.72377 430.23164 432.73066 440.1366 446.22795 450.9917 457.34339 464.74934 471.101">05/2022 &#x2013; 02/2023</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="743" x="477.4375 479.93653 483.50285"> | </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="743" x="486.01564 492.25019 498.86219 505.92976 511.16209 516.3944 522.1864">Sousse,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="743" x="525.2344 527.7334 534.9181 541.98568 549.1443 552.6325 557.86489 561.3531"> Tunisia</tspan></text>
+</g>
+<g clip-path="url(#clip_87)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,569.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_88)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="765" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="765" x="399.48439 407.3459 411.79725 417.65434 423.8238 428.23616 431.72438 438.88304 445.3258 447.82484 451.31306 458.4717 465.63038 472.21635 478.26866 484.4381 488.85047 492.33869 498.36497 504.22206 506.72108 512.8905 520.0492 527.0647 529.5637 534.0151 539.8722 545.1045 552.09396 558.70596 565.8646 571.0969 574.58517 580.61148 586.4685 588.9675 596.0351 601.26748 607.1245 611.86227 614.36129 617.8495 625.0082 629.3294 635.1865 639.92428 643.86807 650.0375 655.5041 661.36117 666.5284">Creating innovative and responsive user interfaces.</tspan></text>
+</g>
+<g clip-path="url(#clip_89)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,582.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_90)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="784" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="784" x="399.48439 407.2808 413.8928 421.05146 426.28379 430.63105 436.8005 443.95918 448.37153 451.87275 458.01618 460.5152 464.00343 474.7154 481.70484 486.1562 492.74217 498.91163 502.39985 509.5585 516.0013 518.5003 522.91268 530.0713 535.92837 538.42739 545.49496 550.7273 556.58438 561.3221 563.8211 569.522 575.78256 582.772 588.629 593.36679 596.855 602.71206 609.8707 615.33737 621.12936">Constantly improving the user experience.</tspan></text>
+</g>
+<g clip-path="url(#clip_91)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,596.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_92)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="802" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="802" x="399.48439 405.97923 409.46745 416.6261 423.6416 427.12983 434.28849 440.73127 443.2303 448.76197 453.21333 459.0704 465.23988 469.65223 473.14045 479.16673 485.0238 487.52284 492.75517 499.36717 502.8684 509.93598 514.3483 517.83657 524.44857 531.6072 536.8395 539.3385 543.6597 550.2717 552.77078 558.00308 564.61508 568.1163 574.1426 579.99966 582.49868 586.8199 592.677 598.1436 605.30227 612.46096 615.94918 621.48086 627.65029 631.1515 633.6505 639.1171 646.27578 652.4452 655.9464 659.44766 665.3047 672.4634 678.84109 684.6981 689.86538">Finding creative solutions to solve technical challenges.</tspan></text>
+</g>
+<g clip-path="url(#clip_93)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,610.5)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_94)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="820" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="820" x="399.48439 410.54777 416.71723 420.20545 427.3641 431.71138 437.88084 441.36906 448.5277 454.3848 461.40028 463.8993 470.06877 477.22743 479.72645 486.33845 490.84187 497.21955 503.389 510.54768 514.0359 519.6847 525.54177 532.55728 535.0563 539.00009 542.4883 545.9895 551.84658 554.3456 559.5779 563.99026 568.72799 575.79556 581.3272 585.73959 592.8071 597.2585 603.1156 605.6146 615.41549 622.5741 626.0623 629.56356 635.42068 637.9197 647.6034 654.2154 658.862 665.2267 668.7149 675.87356 682.3163 684.8153 691.4273 698.586 701.085 708.07449 712.5258 719.1378 722.4308 728.28787 733.8196 738.10177 743.269">Maintained an organized file structure while working on projects,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="820" x="746.3281"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="837" x="399.48439 410.19636 416.3658 422.73054 426.21876 433.3774 439.8202 442.3192 445.80744 450.2198 452.7188 458.5759 464.74537 469.9777 473.4659 479.323 484.06074 486.55976 490.43843 497.0504 501.78816 504.28718 508.6084 514.46548 520.6349 531.34689 533.8459 544.55789 550.4149 561.1269 567.97317 573.8302 578.4768 583.7091 586.2081 590.52938 597.14138 599.6404 603.1416 609.7536 615.2853 621.4547 625.77597 631.63308 634.1321 640.3015 647.4602 654.4757 656.97476 662.8318 669.8473 673.3355 677.7478 680.2468 685.7134 692.3254 699.3409 705.198 707.697 713.86648 719.09878 721.5978 728.7565 734.6135 740.4706 747.4861 753.34317 760.35867">making it easier for team members to locate and edit code as needed.</tspan></text>
+</g>
+<g clip-path="url(#clip_95)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,636.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_96)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="856" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="856" x="399.48439 407.2808 413.8928 421.05146 425.4638 430.20155 433.68977 440.53605 447.60359 451.9248 457.7819 464.79737 467.2964 471.6176 478.2296 480.72865 486.8981 489.39714 496.3866 502.9986 508.23094 511.71916 516.1315 519.6197 525.646 531.50308 534.0021 543.6858 550.2978 554.9444 561.3091 563.8081 569.66519 576.7978 582.9673 586.4555 590.90689 597.51889 604.6775 615.38949 621.2466 628.4053 632.8176 635.31668 642.1369 648.28036 650.77938 656.94888 662.4805 666.8929 670.3811 676.40737 682.2644 685.7656 691.90908 694.4081 701.3976 707.567 712.30477 716.7171 720.2053 725.737 729.2252 736.21469 742.38418 746.7965 750.2847 757.44338 763.88619 766.3852 769.8734">Contributed to a positive work environment by actively participating in</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="856" x="777.0469"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="873" x="399.48439 403.8056 409.6627 415.83216 426.54414 429.04316 439.75514 445.6122 451.4693 455.88166 459.36988 466.52854 472.90626 478.13859 480.6376 486.80708 493.96574 500.9812 503.48023 510.3265 514.8039 520.9734 524.4616 531.62026 536.85256 541.17379 547.78579 552.5235 563.2355 566.7237 573.8823 580.32516 582.82418 588.0565 593.9136 599.1459 604.3782 607.8664 614.4784 621.6371 626.8043">team meetings and brainstorming sessions.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="912" x="376.82814 386.70759 394.68598 407.5592 414.75923 421.55506 429.53346 437.91603 444.96635 449.23249">Gomycode, </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="912" x="452.1875 459.91139 468.60829 473.069 477.52973 483.77174 489.2204 496.68989 503.48573 511.8084">Fullstack </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="912" x="514.7656 519.75027 525.99227">Js </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="15.33" font-family="CrimsonPro" font-weight="bold"><tspan y="912" x="528.9531 534.1174 542.91909 549.1611 554.6846 560.8218 569.5187 576.3894 581.7333 589.7117">Instructor</tspan></text>
+<text fill="#0e374e" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="935" x="376.82814 384.23408 390.3254 395.08918 401.44087 408.8468 415.1334 421.48509 423.9841 430.49198 432.991 440.5271 446.2279 450.99168 457.34336 464.7493 471.0359">02/2022 &#x2013; 05/2022</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="935" x="477.39064 479.88966 483.45597"> | </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="935" x="485.96876 494.40296 500.57243 507.4187 513.27578 518.443">Gabes,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="935" x="521.5 523.999 531.1837 538.2513 545.4099 548.89816 554.1305 557.6187"> Tunisia</tspan></text>
+</g>
+<g clip-path="url(#clip_97)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,713.25)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_98)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="957" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="957" x="399.48439 406.21345 412.07054 418.24 423.7066 430.86528 434.3535 441.51216 447.95497 450.45399 456.81867 463.88624 467.38746 470.88868 475.74354 481.9781 486.32533 492.49479 497.96138 504.32606 506.82508 510.85997 517.0945 519.5935 524.8258 531.1905 534.6787 538.17996 541.68118 546.91348 549.4125 554.09817 562.77969 569.39169 576.40719 582.19918 585.2449 588.53787 593.7051 596.75076 599.24978 606.4735 612.33059 618.5 624.0317 628.44406 631.48977 633.9888 641.0042 647.2648 654.2542 658.70559 664.5627 669.795 674.9622 678.00796 680.50698 691.5703 698.1823 705.341 711.7187 718.3307 727.2074 734.3661 739.05178">Teaching Full-Stack JS skills (Node.js, React, Express, MongoDB).</tspan></text>
+</g>
+<g clip-path="url(#clip_99)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,726.75)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_100)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="976" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="976" x="399.48439 407.91859 414.98616 418.47438 425.48988 428.9781 436.13676 442.57954 445.07856 450.31089 454.7232 461.79078 468.80628 474.66337 481.82203 486.1042 491.33653 493.83555 497.32377 504.48243 506.98146 512.44808 519.06008 529.77206 536.7615 540.2627 546.11978 550.5321 554.0203 561.17898 567.62179 570.1208 577.1102 581.58767 587.7571 593.28878 597.7011 601.18936 606.721 612.8905 616.3917 618.89077 625.8802 630.33157 636.94357 640.2365 646.0936 651.6253 655.9075">Guiding students in completing practical projects</tspan></text>
+</g>
+<g clip-path="url(#clip_101)">
+<path transform="matrix(.14999999,0,0,.14999999,291.75,741)" d="M20 10C19.999999 11.326081 19.746264 12.601692 19.238793 13.826833 18.731322 15.051973 18.008748 16.133385 17.071066 17.071066 16.133385 18.008748 15.051973 18.731322 13.826833 19.238793 12.601692 19.746264 11.326081 19.999999 10 20 8.673917 19.999999 7.3983056 19.746264 6.173165 19.238793 4.9480249 18.731322 3.8666137 18.008748 2.928932 17.071066 1.99125 16.133385 1.2686743 15.051973 .76120457 13.826833 .25373484 12.601692 0 11.326081 0 10 0 8.673917 .25373484 7.3983056 .76120457 6.173165 1.2686743 4.9480249 1.99125 3.8666137 2.928932 2.928932 3.8666137 1.99125 4.9480249 1.2686743 6.173165 .76120457 7.3983056 .25373484 8.673917 0 10 0 11.326081 0 12.601692 .25373484 13.826833 .76120457 15.051973 1.2686743 16.133385 1.99125 17.071066 2.928932 18.008748 3.8666137 18.731322 4.9480249 19.238793 6.173165 19.746264 7.3983056 19.999999 8.673917 20 10Z"/>
+</g>
+<g clip-path="url(#clip_102)">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="1" font-family="CrimsonPro"><tspan y="994" x="399.48439">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.33" font-family="CrimsonPro"><tspan y="994" x="399.48439 406.17448 410.6258 417.21177 423.38124 426.86946 433.88496 437.37318 444.53184 450.9746 453.47364 459.6431 464.87544 470.10777 475.96485 481.19718 486.4295 497.14149 502.99858 510.15724 514.4394 519.67178 522.1708 528.3402 535.4989 542.5144 545.0134 550.48007 557.09207 564.25076 569.48306 573.8954 578.6331 585.7007 591.23239 595.6447 599.13296 605.1592 611.01626 613.51528 617.3939 623.251 629.10806 636.12356 642.96987 649.1393 654.6059 660.9706 663.4696 670.0816 677.24026 679.73928 684.97158 689.3839 696.4515 703.467 709.32406 716.4827 720.7649 725.9972 729.0429 731.54196 741.2256 747.8376 752.4842 758.97909">Providing assessments and constructive feedback on students' work.</tspan></text>
+</g>
+</svg>

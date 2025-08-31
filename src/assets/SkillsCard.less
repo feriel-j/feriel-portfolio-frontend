@@ -1,0 +1,53 @@
+@import url("./preset.less");
+
+.skills-card-container {
+  background-color: red;
+  flex: 1;
+  border-radius: 7px;
+  box-shadow: card-vertical-shadow;
+  padding: 1vw;
+  background-color: @secondary-elements;
+  filter:blur(5%);
+//   height: max-content;
+  
+  border: 2px solid @main-pink;
+  color: @bg-main;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 2rem;
+
+  h1 {
+    font-family: @Montserrat;
+    text-wrap: no-wrap;
+    font-weight: 700;
+    font-size: 2rem;
+    letter-spacing: 0.03em;
+    color: @main-pink;
+  }
+  ul {
+    list-style: square;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+
+    flex-direction: column;
+    gap: 1rem;
+
+    li {
+        width: fit-content;
+      text-align: justify;
+      white-space: nowrap;
+      font-family: @Poppins;
+      font-size: 1.2rem;
+      font-weight: 500;
+    //   overflow: hidden;
+    //   text-overflow: ellipsis;
+
+      &::marker {
+        color: @main-pink;
+      }
+    }
+  }
+}
