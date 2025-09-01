@@ -302,7 +302,6 @@
   }
 }
 .skills-card-container {
-  background-color: red;
   flex: 1;
   border-radius: 7px;
   box-shadow: card-vertical-shadow;
@@ -343,4 +342,10 @@
 }
 .skills-card-container ul li::marker {
   color: #ff2c9c;
+}
+.skills-card-container:hover {
+  background-color: #6737d2;
+}
+.skills-card-container:hover li {
+  color: #ffffff;
 }

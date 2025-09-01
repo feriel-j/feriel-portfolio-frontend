@@ -359,7 +359,7 @@ header .title-section {
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  position: relative;
+  position: fixed;
 }
 header .title-section h1 {
   font-family: "Montserrat";

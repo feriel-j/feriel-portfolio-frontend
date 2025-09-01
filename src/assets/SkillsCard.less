@@ -1,7 +1,6 @@
 @import url("./preset.less");
 
 .skills-card-container {
-  background-color: red;
   flex: 1;
   border-radius: 7px;
   box-shadow: card-vertical-shadow;
@@ -48,6 +47,13 @@
       &::marker {
         color: @main-pink;
       }
+    }
+  }
+  &:hover{
+    background-color: @main-violet;
+
+    li{
+      color:@main-elements
     }
   }
 }

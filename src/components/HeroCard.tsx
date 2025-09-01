@@ -1,5 +1,5 @@
 import React, { forwardRef } from 'react'
-import ButtonPrimary from './buttons/ButtonPrimary'
+// import ButtonPrimary from './buttons/ButtonPrimary'
 import"../_dist/HeroCard.css"
 
 const HeroCard =forwardRef<HTMLHeadElement>( (props,ref) => {
@@ -17,7 +17,7 @@ const HeroCard =forwardRef<HTMLHeadElement>( (props,ref) => {
             to bring ideas to life.
           </p>
          
-          <ButtonPrimary>More Info</ButtonPrimary>
+          {/* <ButtonPrimary>More Info</ButtonPrimary> */}
         </div>
           <img
           className="background background-1"

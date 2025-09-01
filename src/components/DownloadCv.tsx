@@ -12,27 +12,28 @@ const DownloadCv =forwardRef<HTMLElement,DownloadCvProps> ((props,ref) => {
     <section {...props} ref={ref} className="download-cv-contanier">
       <BigTitle>My CV</BigTitle>
       <p>You can download my cv by clicking on the download Button.</p>
-      <ButtonPrimary onClick={() => setShowCv(!showCv)}>
+      <ButtonPrimary onClick={() => setShowCv(true)}>
         {" "}
-        <a
+         <a
           href="files/Feriel-Jabri-EN.pdf"
           target="_blank"
           download={"Feriel-Jabri-CV.pdf"}
           rel="noopener noreferrer">
           Downoald my Cv
-        </a>
+        </a> 
+
       </ButtonPrimary>
       {showCv && (
-        <a
+        <div
           onClick={() => setShowCv(!showCv)}
           className="img-container"
-          href="files/Feriel-Jabri-EN.pdf"
-          target="_blank"
-          download={"Feriel-Jabri-CV.pdf"}
+          // href="files/Feriel-Jabri-EN.pdf"
+          // target="_blank"
+          // download={"Feriel-Jabri-CV.pdf"}
           rel="noopener noreferrer">
           <img src="images/Feriel-Jabri-CV-1.svg" alt="cv feriel first page" />
           <img src="images/Feriel-Jabri-CV-2.svg" alt="cv feriel second page" />
-        </a>
+        </div>
       )}
     </section>
   );
