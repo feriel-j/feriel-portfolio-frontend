@@ -9,18 +9,20 @@ import {
   refAboutContext,
   refContext,
   refCvContext,
+  refProjectsContext,
   refSkillsContext,
   refTestimonialsContext,
 } from "../layouts/MainLayout";
 import DownloadCv from "../../components/DownloadCv";
 import TestimonialsComponent from "../../components/TestimonialsComponent";
 import Footer from "../../components/Footer";
+import ProjectsContainer from "../../components/ProjectsContainer";
 
 const BaseComponent = () => {
   const myTopRef = useContext(refContext);
   const myAboutRef = useContext(refAboutContext);
   const mySkillsRef = useContext(refSkillsContext);
-  //  const myProjectsRef=useContext(refProjectsContext)
+   const myProjectsRef=useContext(refProjectsContext)
   const myTestimonialsRef = useContext(refTestimonialsContext);
   const myCvRef = useContext(refCvContext);
 
@@ -30,6 +32,7 @@ const BaseComponent = () => {
       <MainContainer >
         <AboutMe ref={myAboutRef} />
         <SkillsComponent ref={mySkillsRef} />
+        <ProjectsContainer ref={myProjectsRef}/>
         <TestimonialsComponent ref={myTestimonialsRef} />
         <DownloadCv ref={myCvRef} />
         <Footer />
