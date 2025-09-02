@@ -107,10 +107,12 @@ const ProjectsContainer = forwardRef<HTMLElement, ProjectsContainerProps>(
                 Applied advanced CSS techniques to enhance visuals and
                 interactivity.
               </li>
-              <li><span>Tech Lead:</span>
-              Conducted code reviews, prepared and assigned tasks, coordinated
-              with designers and backend developers, and ensured smooth project
-              delivery.</li>
+              <li>
+                <span>Tech Lead:</span>
+                Conducted code reviews, prepared and assigned tasks, coordinated
+                with designers and backend developers, and ensured smooth
+                project delivery.
+              </li>
             </ul>
           </ProjectCard>
           <ProjectCard
@@ -147,10 +149,12 @@ const ProjectsContainer = forwardRef<HTMLElement, ProjectsContainerProps>(
                 Ensured a seamless, presentation-ready user experience with
                 smooth transitions.
               </li>
-               <li><span>Tech Lead:</span>
-              Conducted code reviews, prepared and assigned tasks, coordinated
-              with designers and backend developers, and ensured smooth project
-              delivery.</li>
+              <li>
+                <span>Tech Lead:</span>
+                Conducted code reviews, prepared and assigned tasks, coordinated
+                with designers and backend developers, and ensured smooth
+                project delivery.
+              </li>
             </ul>
           </ProjectCard>
           <ProjectCard
@@ -189,25 +193,61 @@ const ProjectsContainer = forwardRef<HTMLElement, ProjectsContainerProps>(
                 Developed and styled the project based on Figma design, keeping
                 accessibility in mind.
               </li>
-               <li><span>Tech Lead:</span>
-              Conducted code reviews, prepared and assigned tasks, coordinated
-              with designers and backend developers, and ensured smooth project
-              delivery.</li>
+              <li>
+                <span>Tech Lead:</span>
+                Conducted code reviews, prepared and assigned tasks, coordinated
+                with designers and backend developers, and ensured smooth
+                project delivery.
+              </li>
             </ul>
           </ProjectCard>
           <ProjectCard
             nda
             projecttitle="KWK Application"
-            imageproject="./images/kwk-app.png">
-            {" "}
-            test
+            imageproject="./images/kwk-app.png"
+            description="A large-scale NDA-protected web application designed for multiple user types (individuals, independents, and companies) with personalized dashboards and profiles. The platform includes real-time chat, advanced filters with date pickers, multilingual support, dark/light modes, event management, and extensive CRUD features. Designed to handle high traffic and ensure responsive, accessible performance across devices."
+            stack={ <ul>
+                <li><span>Frontend:</span> React, TypeScript, Less, CSS Grid & Flexbox</li>
+                <li><span>State Management:</span> Redux, custom hooks</li>
+                <li><span>Backend:</span> NestJS</li>
+                <li><span>Database:</span> PostgreSQL (managed via pgAdmin)</li>
+      first     <li><span>Additional Tools:</span> Socket.io (chat), Storybook (documentation), JWT authentication </li>
+              </ul>}
+            >
+            <ul>
+              <li>Translated Figma designs into a responsive and scalable web application</li>
+              <li>Built reusable and custom components with Storybook documentation</li>
+              <li>Implemented role-based dashboards, authentication, and multilingual support</li>
+              <li>Integrated real-time chat and event management functionalities</li>
+              <li>Developed advanced filtering, date pickers, and CRUD operations</li>
+              <li>Coordinated with design and backend teams, performed code reviews, and managed task assignments</li>
+              <li>Optimized performance with lazy loading, pagination, and accessibility best practices</li>
+            </ul>
           </ProjectCard>
           <ProjectCard
             nda
             projecttitle="KWK Application"
-            imageproject="./images/kwk-app.png">
-            {" "}
-            test
+            imageproject="./images/kwk-app-2.png"
+            description="A large-scale, NDA-protected web application designed for a wide range of users (individuals, independents, and companies). Each user type has its own dashboard and profile with tailored functionalities. The platform includes real-time chat, advanced filtering with date pickers, multilingual support, dark/light modes, event management, and various CRUD operations. It was built to handle a high number of concurrent users and ensure responsive, accessible performance across devices."
+            stack={
+              <ul>
+                <li><span>Frontend:</span> React, TypeScript, Less, CSS Grid & Flexbox</li>
+                <li><span>State Management:</span> Redux, custom hooks</li>
+                <li><span>Backend:</span> Node.js, Express</li>
+                <li><span>Database:</span> MongoDB </li>
+      first     <li><span>Additional Tools:</span> Socket.io (chat), Storybook (documentation), JWT authentication </li>
+              </ul>
+            }
+            >
+            <ul>
+              <li>Transformed Figma designs into a responsive, production-ready web application</li>
+              <li>Developed reusable and custom components with Storybook documentation</li>
+              <li>Built role-based dashboards and authentication flows</li>
+              <li>Integrated real-time chat and event management features</li>
+              <li>Implemented advanced filters, date pickers, and multilingual support</li>
+              <li>Collaborated with designers and backend developers to coordinate development tasks</li>
+              <li>Conducted code reviews and optimized performance with lazy loading and pagination</li>
+            </ul>
           </ProjectCard>
           <ProjectCard
             projecttitle="Happy Travelling"

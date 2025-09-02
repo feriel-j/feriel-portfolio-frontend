@@ -14,32 +14,29 @@
   gap: 1rem;
   position: relative;
 
-  &:hover{
-    &::before{
-        background-color: @main-pink;
+  &:hover {
+    &::before {
+      background-color: @main-pink;
     }
-  .project-card-header{
-    scale: 1.015;
+    .project-card-header {
+      scale: 1.015;
 
-    h1{
+      h1 {
         background-color: @main-pink;
         // color: @main-elements;
         border-radius: 5px;
-        
+      }
     }
-  }
-
-    
   }
 
   &::before {
     content: "";
     width: 60%;
-    height:35rem;
+    height: 35rem;
     border-radius: 5px;
     z-index: -2;
     background-color: @main-violet;
-      border: 2px solid @main-pink;
+    border: 2px solid @main-pink;
 
     position: absolute;
     top: -2rem;
@@ -57,7 +54,7 @@
 
     .project-title {
       font-family: @Montserrat;
-      padding: .5rem;
+      padding: 0.5rem;
       text-align: center;
       white-space: nowrap;
       font-weight: 600;
@@ -66,7 +63,6 @@
       color: @main-violet;
       text-decoration: 2px solid underline;
       text-underline-offset: 7px;
-   
     }
 
     figure {
@@ -88,40 +84,44 @@
     align-items: center;
     flex-direction: column;
     padding: 1rem;
-    gap:1rem;
+    gap: 1rem;
     color: @bg-main;
 
-    h2{
-        color:@main-pink;
-        font-family: @Montserrat;
-        font-size: 1.3rem;
-        text-align: start;
-        width: 100%;
+    h2 {
+      color: @main-pink;
+      font-family: @Montserrat;
+      font-size: 1.3rem;
+      text-align: start;
+      width: 100%;
     }
 
-    p{
+    p {
+      font-family: @Poppins;
+      font-size: 1rem;
+      text-align: justify;
+      line-height: 2;
+    }
+
+    ul {
+      width: 100%;
+      padding: 1vw;
+
+      li {
         font-family: @Poppins;
-        font-size: 1rem;
-        text-align: justify;
-                line-height: 2;
-
-    }
-
-    ul{
-        width: 100%;
-        padding: 1vw;
-
-        li{
-
-             font-family: @Poppins;
         font-weight: 400;
         font-size: 1rem;
         line-height: 1.75;
-             &::marker {
-        color: @main-pink;
-       
-      }
+
+        span {
+            font-weight: 600;
+          }
+          
+        &::marker {
+          color: @main-pink;
+
+
         }
+      }
     }
   }
 }
@@ -148,10 +148,8 @@
   box-shadow: @card-dark-mode;
 }
 
-
 @media (max-width: 800px) {
-    .project-card-container{
-width: 70%;
-    }
-
+  .project-card-container {
+    width: 70%;
+  }
 }

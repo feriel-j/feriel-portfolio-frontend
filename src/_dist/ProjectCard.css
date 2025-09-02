@@ -400,6 +400,9 @@
   font-size: 1rem;
   line-height: 1.75;
 }
+.project-card-container .project-card-content ul li span {
+  font-weight: 600;
+}
 .project-card-container .project-card-content ul li::marker {
   color: #ff2c9c;
 }
